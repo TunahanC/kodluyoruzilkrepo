@@ -1,0 +1,15 @@
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\trycatchfinaly.csproj.AssemblyReference.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\trycatchfinaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\trycatchfinaly.AssemblyInfoInputs.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\trycatchfinaly.AssemblyInfo.cs
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\trycatchfinaly.csproj.CoreCompileInputs.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\bin\Debug\net7.0\trycatchfinaly.exe
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\bin\Debug\net7.0\trycatchfinaly.deps.json
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\bin\Debug\net7.0\trycatchfinaly.runtimeconfig.json
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\bin\Debug\net7.0\trycatchfinaly.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\bin\Debug\net7.0\trycatchfinaly.pdb
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\trycatchfinaly.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\refint\trycatchfinaly.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\trycatchfinaly.pdb
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\trycatchfinaly.genruntimeconfig.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\hata-yönetimi\obj\Debug\net7.0\ref\trycatchfinaly.dll

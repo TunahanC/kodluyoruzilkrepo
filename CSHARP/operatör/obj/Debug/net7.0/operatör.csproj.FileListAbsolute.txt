@@ -1,0 +1,15 @@
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\bin\Debug\net7.0\operatör.exe
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\bin\Debug\net7.0\operatör.deps.json
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\bin\Debug\net7.0\operatör.runtimeconfig.json
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\bin\Debug\net7.0\operatör.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\bin\Debug\net7.0\operatör.pdb
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\operatör.csproj.AssemblyReference.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\operatör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\operatör.AssemblyInfoInputs.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\operatör.AssemblyInfo.cs
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\operatör.csproj.CoreCompileInputs.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\operatör.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\refint\operatör.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\operatör.pdb
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\operatör.genruntimeconfig.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\operatör\obj\Debug\net7.0\ref\operatör.dll
