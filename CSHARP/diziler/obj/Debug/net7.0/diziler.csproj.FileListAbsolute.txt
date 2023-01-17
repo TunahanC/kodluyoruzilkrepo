@@ -1,0 +1,15 @@
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\bin\Debug\net7.0\diziler.exe
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\bin\Debug\net7.0\diziler.deps.json
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\bin\Debug\net7.0\diziler.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\bin\Debug\net7.0\diziler.pdb
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\diziler.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\refint\diziler.dll
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\diziler.pdb
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+C:\Users\ctuna\Desktop\kodluyoruz\kodluyoruzilkrepo\CSHARP\diziler\obj\Debug\net7.0\ref\diziler.dll
